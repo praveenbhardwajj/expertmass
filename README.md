@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">A passionate Java Developer 💻 | Core Java | MySQL | JSP | JDBC</h3>
+<h3 align="center">A passionate Java Developer 💻 | Core Java | MySQL | JSP | SpringBoot | Pipeline </h3>
 
 - 📫 Reach me at: **mastermasspk@gmail.com**
 - 📱 Contact: **+91 6397520489**
