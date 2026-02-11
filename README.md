@@ -87,7 +87,7 @@
 
 ## 💡 Developer Mindset
 
-> <h1Make it work, make it right, make it fast </h1>
+> <h1>Make it work, make it right, make it fast </h1>
 
 ---
 
