@@ -87,7 +87,7 @@
 
 ## 💡 Developer Mindset
 
-> "Build scalable systems. Write clean code. Automate everything."
+> <h1Make it work, make it right, make it fast </h1>
 
 ---
 
