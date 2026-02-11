@@ -1,54 +1,94 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">A passionate Java Developer 💻 | Core Java | MySQL | JSP | SpringBoot | Pipeline </h3>
+<h3 align="center">🚀 Java Backend Developer | Spring Boot | Microservices | CI/CD Pipeline | React</h3>
 
-- 📫 Reach me at: **mastermasspk@gmail.com**
+---
+
+## 🙋‍♂️ About Me
+
+- 💻 Backend Focused Java Developer
+- 🏗️ Building Scalable Microservices Architecture
+- ⚙️ Working with CI/CD Pipelines
+- 🤖 Currently Learning: **Python for AI & Automation**
+- 📫 Email: **mastermasspk@gmail.com**
 - 📱 Contact: **+91 6397520489**
+- 📷 Instagram: **@praveenbhardwaj02**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://instagram.com/praveenbhardwaj02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="expert_mass_" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/blogs_here" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blogs_here" height="30" width="40" />
-  </a>
+<a href="https://instagram.com/praveenbhardwaj02" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:mastermasspk@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
-<h3 align="left">Technologies & Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Backend & Architecture
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=expertmass&show_icons=true&locale=en&layout=compact&langs_count=8" alt="expertmass" />
+### 🏗️ Microservices & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+<img src="https://img.shields.io/badge/CI/CD-Pipeline-blue?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=expertmass&show_icons=true&locale=en" alt="expertmass" />
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,javascript" />
 </p>
+
+### 🤖 Currently Exploring
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/AI-ML-green?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expertmass&" alt="expertmass" />
+<img src="https://github-readme-stats.vercel.app/api?username=expertmass&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=expertmass&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=expertmass&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Core Expertise
+
+✔️ Core Java  
+✔️ Spring Boot REST APIs  
+✔️ JWT Authentication & Security  
+✔️ Microservices Architecture  
+✔️ CI/CD Pipeline Integration  
+✔️ MySQL & PostgreSQL  
+✔️ React Frontend Integration  
+✔️ API Testing with Postman  
+✔️ Database Management using DBeaver  
+
+---
+
+## 💡 Developer Mindset
+
+> "Build scalable systems. Write clean code. Automate everything."
+
+---
+
+⭐ From [Praveen Kumar](https://github.com/expertmass)
